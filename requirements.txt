@@ -26,7 +26,7 @@ joblib==1.0.1
 jsonschema==3.2.0
 Markdown==3.3.4
 multidict==5.2.0
-nltk==3.6.2
+nltk==3.6.6
 numpy==1.19.5
 oauthlib==3.1.1
 packaging==21.0
