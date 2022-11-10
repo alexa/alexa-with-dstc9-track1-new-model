@@ -30,7 +30,7 @@ The task formulation and details can be referred to [this link](https://github.c
 pip install -r requirements.txt
 ```
 
-2. Download data used for training and evaluation and trained model parameters from [this link](). Decompress it to the root folder:
+2. Download data used for training and evaluation and trained model parameters from [this link](https://drive.google.com/file/d/1mEk9vd4FAY-nfHmomNCrFkyFZLNN3z31/view?usp=share_link). Decompress it to the root folder:
 
 ```
 tar -xvzf DSTC9-Track1.tar.gz -C ./
